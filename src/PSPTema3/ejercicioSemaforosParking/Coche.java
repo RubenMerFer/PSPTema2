@@ -15,6 +15,7 @@ public class Coche extends Thread{
     public Coche(Semaphore semaforo, int numeroCoche) {
         this.semaforo = semaforo;
         this.numeroCoche= numeroCoche;
+        this.expulsado= false;
     }
 
     //Getters y setters
