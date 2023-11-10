@@ -1,0 +1,88 @@
+Exception in thread "main" Exception in thread "main" java.lang.RuntimeException: PROCESO DICE: ¡EL NÚMERO 2 ES UN NÚMERO PROHIBIDO!
+	at procesos.ejercicio1Multiple.HolaMundoMultiple.main(HolaMundoMultiple.java:16)
+Exception in thread "main" java.lang.RuntimeException: PROCESO DICE: ¡EL NÚMERO 4 ES UN NÚMERO PROHIBIDO!
+	at procesos.ejercicio1Multiple.HolaMundoMultiple.main(HolaMundoMultiple.java:16)
+java.lang.RuntimeException: PROCESO DICE: ¡EL NÚMERO 0 ES UN NÚMERO PROHIBIDO!
+	at procesos.ejercicio1Multiple.HolaMundoMultiple.main(HolaMundoMultiple.java:16)
+Exception in thread "main" java.lang.RuntimeException: PROCESO DICE: ¡EL NÚMERO 6 ES UN NÚMERO PROHIBIDO!
+	at procesos.ejercicio1Multiple.HolaMundoMultiple.main(HolaMundoMultiple.java:16)
+Exception in thread "main" java.lang.RuntimeException: PROCESO DICE: ¡EL NÚMERO 8 ES UN NÚMERO PROHIBIDO!
+	at procesos.ejercicio1Multiple.HolaMundoMultiple.main(HolaMundoMultiple.java:16)
+Exception in thread "main" java.lang.RuntimeException: PROCESO DICE: ¡EL NÚMERO 10 ES UN NÚMERO PROHIBIDO!
+	at procesos.ejercicio1Multiple.HolaMundoMultiple.main(HolaMundoMultiple.java:16)
+Exception in thread "main" java.lang.RuntimeException: PROCESO DICE: ¡EL NÚMERO 12 ES UN NÚMERO PROHIBIDO!
+	at procesos.ejercicio1Multiple.HolaMundoMultiple.main(HolaMundoMultiple.java:16)
+Exception in thread "main" java.lang.RuntimeException: PROCESO DICE: ¡EL NÚMERO 14 ES UN NÚMERO PROHIBIDO!
+	at procesos.ejercicio1Multiple.HolaMundoMultiple.main(HolaMundoMultiple.java:16)
+Exception in thread "main" java.lang.RuntimeException: PROCESO DICE: ¡EL NÚMERO 18 ES UN NÚMERO PROHIBIDO!
+	at procesos.ejercicio1Multiple.HolaMundoMultiple.main(HolaMundoMultiple.java:16)
+Exception in thread "main" java.lang.RuntimeException: PROCESO DICE: ¡EL NÚMERO 16 ES UN NÚMERO PROHIBIDO!
+	at procesos.ejercicio1Multiple.HolaMundoMultiple.main(HolaMundoMultiple.java:16)
+Exception in thread "main" java.lang.RuntimeException: PROCESO DICE: ¡EL NÚMERO 20 ES UN NÚMERO PROHIBIDO!
+	at procesos.ejercicio1Multiple.HolaMundoMultiple.main(HolaMundoMultiple.java:16)
+Exception in thread "main" java.lang.RuntimeException: PROCESO DICE: ¡EL NÚMERO 0 ES UN NÚMERO PROHIBIDO!
+	at procesos.ejercicio1Multiple.HolaMundoMultiple.main(HolaMundoMultiple.java:16)
+Exception in thread "main" Exception in thread "main" java.lang.RuntimeException: PROCESO DICE: ¡EL NÚMERO 4 ES UN NÚMERO PROHIBIDO!
+	at procesos.ejercicio1Multiple.HolaMundoMultiple.main(HolaMundoMultiple.java:16)
+java.lang.RuntimeException: PROCESO DICE: ¡EL NÚMERO 2 ES UN NÚMERO PROHIBIDO!
+	at procesos.ejercicio1Multiple.HolaMundoMultiple.main(HolaMundoMultiple.java:16)
+Exception in thread "main" java.lang.RuntimeException: PROCESO DICE: ¡EL NÚMERO 6 ES UN NÚMERO PROHIBIDO!
+	at procesos.ejercicio1Multiple.HolaMundoMultiple.main(HolaMundoMultiple.java:16)
+Exception in thread "main" java.lang.RuntimeException: PROCESO DICE: ¡EL NÚMERO 8 ES UN NÚMERO PROHIBIDO!
+	at procesos.ejercicio1Multiple.HolaMundoMultiple.main(HolaMundoMultiple.java:16)
+Exception in thread "main" java.lang.RuntimeException: PROCESO DICE: ¡EL NÚMERO 10 ES UN NÚMERO PROHIBIDO!
+	at procesos.ejercicio1Multiple.HolaMundoMultiple.main(HolaMundoMultiple.java:16)
+Exception in thread "main" java.lang.RuntimeException: PROCESO DICE: ¡EL NÚMERO 12 ES UN NÚMERO PROHIBIDO!
+	at procesos.ejercicio1Multiple.HolaMundoMultiple.main(HolaMundoMultiple.java:16)
+Exception in thread "main" java.lang.RuntimeException: PROCESO DICE: ¡EL NÚMERO 14 ES UN NÚMERO PROHIBIDO!
+	at procesos.ejercicio1Multiple.HolaMundoMultiple.main(HolaMundoMultiple.java:16)
+Exception in thread "main" java.lang.RuntimeException: PROCESO DICE: ¡EL NÚMERO 16 ES UN NÚMERO PROHIBIDO!
+	at procesos.ejercicio1Multiple.HolaMundoMultiple.main(HolaMundoMultiple.java:16)
+Exception in thread "main" Exception in thread "main" java.lang.RuntimeException: PROCESO DICE: ¡EL NÚMERO 20 ES UN NÚMERO PROHIBIDO!
+	at procesos.ejercicio1Multiple.HolaMundoMultiple.main(HolaMundoMultiple.java:16)
+java.lang.RuntimeException: PROCESO DICE: ¡EL NÚMERO 18 ES UN NÚMERO PROHIBIDO!
+	at procesos.ejercicio1Multiple.HolaMundoMultiple.main(HolaMundoMultiple.java:16)
+Exception in thread "main" java.lang.RuntimeException: PROCESO DICE: ¡EL NÚMERO 0 ES UN NÚMERO PROHIBIDO!
+	at procesos.ejercicio1Multiple.HolaMundoMultiple.main(HolaMundoMultiple.java:16)
+Exception in thread "main" java.lang.RuntimeException: PROCESO DICE: ¡EL NÚMERO 2 ES UN NÚMERO PROHIBIDO!
+	at procesos.ejercicio1Multiple.HolaMundoMultiple.main(HolaMundoMultiple.java:16)
+Exception in thread "main" java.lang.RuntimeException: PROCESO DICE: ¡EL NÚMERO 4 ES UN NÚMERO PROHIBIDO!
+	at procesos.ejercicio1Multiple.HolaMundoMultiple.main(HolaMundoMultiple.java:16)
+Exception in thread "main" java.lang.RuntimeException: PROCESO DICE: ¡EL NÚMERO 6 ES UN NÚMERO PROHIBIDO!
+	at procesos.ejercicio1Multiple.HolaMundoMultiple.main(HolaMundoMultiple.java:16)
+Exception in thread "main" java.lang.RuntimeException: PROCESO DICE: ¡EL NÚMERO 8 ES UN NÚMERO PROHIBIDO!
+	at procesos.ejercicio1Multiple.HolaMundoMultiple.main(HolaMundoMultiple.java:16)
+Exception in thread "main" java.lang.RuntimeException: PROCESO DICE: ¡EL NÚMERO 10 ES UN NÚMERO PROHIBIDO!
+	at procesos.ejercicio1Multiple.HolaMundoMultiple.main(HolaMundoMultiple.java:16)
+Exception in thread "main" java.lang.RuntimeException: PROCESO DICE: ¡EL NÚMERO 12 ES UN NÚMERO PROHIBIDO!
+	at procesos.ejercicio1Multiple.HolaMundoMultiple.main(HolaMundoMultiple.java:16)
+Exception in thread "main" java.lang.RuntimeException: PROCESO DICE: ¡EL NÚMERO 14 ES UN NÚMERO PROHIBIDO!
+	at procesos.ejercicio1Multiple.HolaMundoMultiple.main(HolaMundoMultiple.java:16)
+Exception in thread "main" java.lang.RuntimeException: PROCESO DICE: ¡EL NÚMERO 16 ES UN NÚMERO PROHIBIDO!
+	at procesos.ejercicio1Multiple.HolaMundoMultiple.main(HolaMundoMultiple.java:16)
+Exception in thread "main" java.lang.RuntimeException: PROCESO DICE: ¡EL NÚMERO 18 ES UN NÚMERO PROHIBIDO!
+	at procesos.ejercicio1Multiple.HolaMundoMultiple.main(HolaMundoMultiple.java:16)
+Exception in thread "main" java.lang.RuntimeException: PROCESO DICE: ¡EL NÚMERO 20 ES UN NÚMERO PROHIBIDO!
+	at procesos.ejercicio1Multiple.HolaMundoMultiple.main(HolaMundoMultiple.java:16)
+Exception in thread "main" java.lang.RuntimeException: PROCESO DICE: ¡EL NÚMERO 0 ES UN NÚMERO PROHIBIDO!
+	at procesos.ejercicio1Multiple.HolaMundoMultiple.main(HolaMundoMultiple.java:16)
+Exception in thread "main" java.lang.RuntimeException: PROCESO DICE: ¡EL NÚMERO 2 ES UN NÚMERO PROHIBIDO!
+	at procesos.ejercicio1Multiple.HolaMundoMultiple.main(HolaMundoMultiple.java:16)
+Exception in thread "main" java.lang.RuntimeException: PROCESO DICE: ¡EL NÚMERO 4 ES UN NÚMERO PROHIBIDO!
+	at procesos.ejercicio1Multiple.HolaMundoMultiple.main(HolaMundoMultiple.java:16)
+Exception in thread "main" java.lang.RuntimeException: PROCESO DICE: ¡EL NÚMERO 6 ES UN NÚMERO PROHIBIDO!
+	at procesos.ejercicio1Multiple.HolaMundoMultiple.main(HolaMundoMultiple.java:16)
+Exception in thread "main" java.lang.RuntimeException: PROCESO DICE: ¡EL NÚMERO 8 ES UN NÚMERO PROHIBIDO!
+	at procesos.ejercicio1Multiple.HolaMundoMultiple.main(HolaMundoMultiple.java:16)
+Exception in thread "main" java.lang.RuntimeException: PROCESO DICE: ¡EL NÚMERO 10 ES UN NÚMERO PROHIBIDO!
+	at procesos.ejercicio1Multiple.HolaMundoMultiple.main(HolaMundoMultiple.java:16)
+Exception in thread "main" java.lang.RuntimeException: PROCESO DICE: ¡EL NÚMERO 12 ES UN NÚMERO PROHIBIDO!
+	at procesos.ejercicio1Multiple.HolaMundoMultiple.main(HolaMundoMultiple.java:16)
+Exception in thread "main" java.lang.RuntimeException: PROCESO DICE: ¡EL NÚMERO 14 ES UN NÚMERO PROHIBIDO!
+	at procesos.ejercicio1Multiple.HolaMundoMultiple.main(HolaMundoMultiple.java:16)
+Exception in thread "main" java.lang.RuntimeException: PROCESO DICE: ¡EL NÚMERO 16 ES UN NÚMERO PROHIBIDO!
+	at procesos.ejercicio1Multiple.HolaMundoMultiple.main(HolaMundoMultiple.java:16)
+Exception in thread "main" java.lang.RuntimeException: PROCESO DICE: ¡EL NÚMERO 18 ES UN NÚMERO PROHIBIDO!
+	at procesos.ejercicio1Multiple.HolaMundoMultiple.main(HolaMundoMultiple.java:16)
+Exception in thread "main" java.lang.RuntimeException: PROCESO DICE: ¡EL NÚMERO 20 ES UN NÚMERO PROHIBIDO!
+	at procesos.ejercicio1Multiple.HolaMundoMultiple.main(HolaMundoMultiple.java:16)

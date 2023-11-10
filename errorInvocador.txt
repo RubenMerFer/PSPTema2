@@ -1,0 +1,16 @@
+Error: no se ha encontrado o cargado la clase principal procesos.ejemplos.HolaProceso
+Causado por: java.lang.ClassNotFoundException: procesos.ejemplos.HolaProceso
+Error: no se ha encontrado o cargado la clase principal procesos.ejemplos.HolaProceso
+Causado por: java.lang.ClassNotFoundException: procesos.ejemplos.HolaProceso
+Error: no se ha encontrado o cargado la clase principal procesos.ejemplos.CorreccionHolaProceso
+Causado por: java.lang.ClassNotFoundException: procesos.ejemplos.CorreccionHolaProceso
+Error: no se ha encontrado o cargado la clase principal "out.production.PSPTema2"
+Causado por: java.lang.ClassNotFoundException: "out.production.PSPTema2"
+Error: no se ha encontrado o cargado la clase principal "out.production.PSPTema2"
+Causado por: java.lang.ClassNotFoundException: "out.production.PSPTema2"
+Error: no se ha encontrado o cargado la clase principal "out.production.PSPTema2"
+Causado por: java.lang.ClassNotFoundException: "out.production.PSPTema2"
+Error: no se ha encontrado o cargado la clase principal out.production.PSPTema2
+Causado por: java.lang.ClassNotFoundException: out.production.PSPTema2
+Error: Could not find or load main class out.production.PSPTema2
+Caused by: java.lang.ClassNotFoundException: out.production.PSPTema2

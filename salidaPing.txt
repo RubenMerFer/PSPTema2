@@ -1,0 +1,24 @@
+
+Haciendo ping a google.com [142.250.184.174] con 32 bytes de datos:
+Respuesta desde 142.250.184.174: bytes=32 tiempo=14ms TTL=119
+Respuesta desde 142.250.184.174: bytes=32 tiempo=25ms TTL=119
+Respuesta desde 142.250.184.174: bytes=32 tiempo=407ms TTL=119
+Respuesta desde 142.250.184.174: bytes=32 tiempo=15ms TTL=119
+
+Estad¡sticas de ping para 142.250.184.174:
+    Paquetes: enviados = 4, recibidos = 4, perdidos = 0
+    (0% perdidos),
+Tiempos aproximados de ida y vuelta en milisegundos:
+    M¡nimo = 14ms, M ximo = 407ms, Media = 115ms
+
+Haciendo ping a google.com [142.250.184.14] con 32 bytes de datos:
+Respuesta desde 142.250.184.14: bytes=32 tiempo=40ms TTL=119
+Respuesta desde 142.250.184.14: bytes=32 tiempo=15ms TTL=119
+Respuesta desde 142.250.184.14: bytes=32 tiempo=17ms TTL=119
+Respuesta desde 142.250.184.14: bytes=32 tiempo=19ms TTL=119
+
+Estad¡sticas de ping para 142.250.184.14:
+    Paquetes: enviados = 4, recibidos = 4, perdidos = 0
+    (0% perdidos),
+Tiempos aproximados de ida y vuelta en milisegundos:
+    M¡nimo = 15ms, M ximo = 40ms, Media = 22ms

@@ -1,0 +1,19 @@
+
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: 96DB-F3EA
+
+ Directorio de C:\Users\admin\Desktop
+
+13/10/2023  10:47    <DIR>          .
+13/10/2023  10:47    <DIR>          ..
+07/10/2023  19:37    <DIR>          Asignaturas 1§ DAM Rub‚n Mercedes (actualizado de casa)
+07/10/2023  19:49    <DIR>          Asignaturas 2§ DAM Rub‚n Mercedes (casa)
+20/10/2023  18:38             1.058 eclipse - Acceso directo.lnk
+05/03/2023  00:40             2.402 GitHub Desktop.lnk
+21/10/2023  09:19             2.309 Google Chrome.lnk
+07/10/2023  14:08               671 ideaIC-2022.2.3 - Acceso directo.lnk
+30/05/2023  20:10               931 Umlet - Acceso directo.lnk
+03/12/2022  20:41             1.251 VirtualBox-6.1.36-152435-Win - Acceso directo.lnk
+11/09/2023  17:27             1.220 XML Copy Editor.lnk
+               7 archivos          9.842 bytes
+               4 dirs  261.320.814.592 bytes libres
